@@ -1,0 +1,39 @@
+8          
+reset 301
+new 1100
+new 1110
+next
+order 1120
+next
+order 1150
+avg_qtime
+
+44444 A
+22222 F
+11111 B+
+66666 C
+55555 B
+33333 D+
+q
+33333 22222 55555
+
+4
+1
+2
+3
+4
+11 12 13 14 15
+21
+22
+23
+24
+25
+-1
+
+AAAAA
+5
+0011 ABBBB
+2222 AAAAB
+3333 AAABB
+4444 AAAAA
+5555 AAAAB
